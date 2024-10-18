@@ -99,7 +99,7 @@ module.exports = {
 
       if (!np) {
 
-        return api.sendMessage('💬 Que puis-je faire pour toi 🧘🏽‍♂️', event.threadID, event.messageID);
+        return api.sendMessage('💬𝐌𝐎𝐍 𝐌𝐀𝐈𝐓𝐑𝐄 𝐌'𝐀𝐒 𝐌𝐈𝐒 𝐀 𝐓𝐀 𝐃𝐈𝐒𝐏𝐎𝐒𝐈𝐓𝐎𝐍 ...𝐏𝐎𝐒𝐄 𝐋𝐀 𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈𝐎𝐍 🧑‍🦯💢, event.threadID, event.messageID);
 
       }
 
@@ -131,7 +131,7 @@ module.exports = {
 
             role: "user",
 
-            content: `💬 𝙃𝙞 𝙄'𝙢 𝙈𝙞𝙖 𝙍𝙤𝙣𝙖𝙡𝙙'𝙨 𝙫𝙞𝙧𝙩𝙪𝙖𝙡 𝙖𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩. 𝙒𝙝𝙖𝙩 𝙘𝙖𝙣 𝙞 𝙙𝙤 𝙛𝙤𝙧 𝙮𝙤𝙪 🤓?`
+            content: `💬 𝐇𝐄𝐘 𝐒𝐎𝐌𝐀 𝐇𝐀𝐊𝐀𝐈 𝐏𝐎𝐔𝐑 𝐓𝐄 𝐒𝐄𝐕𝐈𝐑`
 
           },
 
