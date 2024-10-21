@@ -13,8 +13,8 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			leaveType1: "left the group",
-			leaveType2: "was kicked from the group"
+			leaveType1: "𝐔𝐍 𝐈𝐌𝐁𝐄𝐂𝐈𝐋𝐄 𝐃𝐄 𝐌𝐎𝐈𝐍𝐒🙄🖕",
+			leaveType2: "𝐃𝐄 𝐓𝐎𝐔𝐓𝐄 𝐅𝐀𝐂𝐎𝐍 𝐓𝐔 𝐌𝐄𝐑𝐈𝐓𝐄𝐑 𝐏𝐀𝐒 𝐂𝐄 𝐆𝐑𝐏 𝐀𝐃𝐈𝐄𝐔𝐗 𝐉'𝐄𝐒𝐏𝐄𝐑𝐄🙌😆"
 		}
 	},
 	logsbot: {
@@ -32,7 +32,7 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
+			welcomeMessage: "𝐓𝐔 𝐍𝐄 𝐕𝐀𝐒 𝐏𝐀𝐒 𝐑𝐄𝐆𝐑𝐄𝐓𝐓𝐄𝐑 𝐃𝐄 𝐌'𝐀𝐕𝐎𝐈𝐑 𝐀𝐉𝐎𝐔𝐓𝐄𝐑 ...𝐓𝐇𝐗🧑‍🦯💢🤌!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
 			multiple1: "you",
 			multiple2: "you guys"
 		}
